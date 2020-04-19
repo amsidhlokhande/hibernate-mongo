@@ -1,0 +1,1 @@
+This is an Application using Hibernate and MongoDB with persistence xml file
